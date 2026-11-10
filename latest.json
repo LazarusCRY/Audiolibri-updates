@@ -1,8 +1,10 @@
 {
-  "versionCode": 0,
-  "versionName": "0.0.0",
-  "apkUrl": "",
+  "versionCode": 16,
+  "versionName": "0.2.2",
+  "apkUrl": "https://github.com/LazarusCRY/Audiolibri-updates/releases/download/v0.2.2/Lazarus-Audiobooks-0.2.2.apk",
   "changelog": [
-    "Repository aggiornamenti inizializzato."
-  ]
+    "Controllo automatico degli aggiornamenti",
+    "Download dell'APK e avvio dell'installazione guidata Android"
+  ],
+  "mandatory": false
 }
