@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "0.3.1",
-  "apkUrl": "https://github.com/LazarusCRY/Audiolibri-updates/releases/download/v0.3.1/Lazarus-Audiobooks-0.3.1.apk",
+  "versionCode": 19,
+  "versionName": "0.3.2",
+  "apkUrl": "https://github.com/LazarusCRY/Audiolibri-updates/releases/download/v0.3.2/Lazarus-Audiobooks-0.3.2.apk",
   "changelog": [
     "Ricerca e modifica dei metadati: autore, anno, descrizione e saga",
     "Ricerca nella libreria per titolo, autore, saga e categoria",
