@@ -1,12 +1,13 @@
 {
-  "versionCode": 17,
-  "versionName": "0.3.0",
-  "apkUrl": "https://github.com/LazarusCRY/Audiolibri-updates/releases/download/v0.3.0/Lazarus-Audiobooks-0.3.0.apk",
+  "versionCode": 18,
+  "versionName": "0.3.1",
+  "apkUrl": "https://github.com/LazarusCRY/Audiolibri-updates/releases/download/v0.3.1/Lazarus-Audiobooks-0.3.1.apk",
   "changelog": [
     "Ricerca e modifica dei metadati: autore, anno, descrizione e saga",
     "Ricerca nella libreria per titolo, autore, saga e categoria",
     "Autore, anno e saga visibili nelle schede e nel dettaglio",
     "Note di versione consultabili direttamente dalla home",
+    "Pulsante Controlla aggiornamenti con verifica immediata",
     "Ricerca copertine e regolazione dell'inquadratura"
   ],
   "mandatory": false
