@@ -3,8 +3,11 @@
   "versionName": "0.3.0",
   "apkUrl": "https://github.com/LazarusCRY/Audiolibri-updates/releases/download/v0.3.0/Lazarus-Audiobooks-0.3.0.apk",
   "changelog": [
-    "Controllo automatico degli aggiornamenti",
-    "Download dell'APK e avvio dell'installazione guidata Android"
+    "Ricerca e modifica dei metadati: autore, anno, descrizione e saga",
+    "Ricerca nella libreria per titolo, autore, saga e categoria",
+    "Autore, anno e saga visibili nelle schede e nel dettaglio",
+    "Note di versione consultabili direttamente dalla home",
+    "Ricerca copertine e regolazione dell'inquadratura"
   ],
   "mandatory": false
 }
